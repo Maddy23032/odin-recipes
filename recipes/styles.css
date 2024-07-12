@@ -1,0 +1,16 @@
+h1{
+    color:yellow;
+    background-color: blue;
+}
+h2{
+    color: red;
+    background-color: black;
+}
+img{
+    height:auto;
+    width:auto;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: aqua;
+}
